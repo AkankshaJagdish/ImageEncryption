@@ -57,6 +57,6 @@ try:
 except Exception as e:
     print('Error caught : ', str(e))
 
-
+# Path of image: assets\resources_top-cybersecurity-threats_730x425.jpg
 # Key for XOR encryption :  123
 # Key for AES encryption :  myverysecretkey!
